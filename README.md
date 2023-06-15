@@ -1,2 +1,2 @@
 # certificates
-Collection of certificates
+To view relevent certification, simply click and download.
