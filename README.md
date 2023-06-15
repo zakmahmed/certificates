@@ -1,2 +1,2 @@
 # certificates
-To view relevent certification, simply click and download.
+To view relevent certification, simply click to view the file.
